@@ -36,7 +36,7 @@
 ### CocoaPods
 
 ```
-pod 'BTBubble'
+pod 'MCBubble'
 ```
 
 
