@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MCBubble'
-  s.version          = '1.1.1'
+  s.version          = '1.1.2'
   s.summary          = '气泡'
   
   s.homepage         = 'https://github.com/iAmMccc/MCBubble'
